@@ -1,0 +1,29 @@
+  body {
+    background-color: #E8F9FD;
+  }
+
+  hr {
+
+    border-style: none;
+    border-top-style: dotted;
+    height: 0px;
+    width: 4%;
+    border-width:5px;
+    border-color:gray;
+  }
+
+  h1, h2, h3{
+    color: #0AA1DD;
+  }
+
+  table {
+  border-collapse: collapse;
+  width: 50%;
+}
+
+th, td {
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {background-color: #f2f2f2;}
